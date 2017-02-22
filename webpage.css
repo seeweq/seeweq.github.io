@@ -1,0 +1,49 @@
+body {
+    background-color:olive;
+}
+
+.photo {
+    float : right;
+}
+.parisimg{
+    display: inline
+}
+.foreign{
+    font-size: 20px;
+}
+table {
+    margin: 10ox;
+}
+.his-txt {
+    font-size: 30px;
+}
+.col-3 {
+    box-sizing: border-box;
+    width: 25%;
+    height: 200px;
+    
+    
+    float: left;
+    margin-bottom: 200px;
+}
+.col-9 {
+    box-sizing: border-box;
+    width: 75%;
+    float: right;
+        
+}
+row : :after{
+    content: " ";
+    clear: both;
+    display: table;
+    margin-bottom: 200px;
+}
+.alfred {
+    margin-bottom: 500px;
+    
+}
+        
+}
+
+
+
