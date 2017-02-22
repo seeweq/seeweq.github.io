@@ -16,33 +16,20 @@ table {
 }
 .his-txt {
     font-size: 30px;
+    margin-top: 1em;
 }
-.col-3 {
-    box-sizing: border-box;
-    width: 25%;
-    height: 200px;
-    
-    
-    float: left;
-    margin-bottom: 200px;
+.clocktower {
+    margin-bottom: 400px;
 }
-.col-9 {
-    box-sizing: border-box;
-    width: 75%;
-    float: right;
-        
-}
-row : :after{
-    content: " ";
-    clear: both;
-    display: table;
-    margin-bottom: 200px;
+.clocktower ul {
+    margin-left: 400px;
+    margin-top: 5em;
 }
 .alfred {
-    margin-bottom: 500px;
-    
+    margin-bottom: 250px;
 }
-        
+.africaTP ul {
+    margin-left: 400px;
 }
 
 
