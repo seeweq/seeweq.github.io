@@ -1,15 +1,28 @@
 body {
-    background-color:olive;
+    background-color:olivedrab;
+}
+.middle-center {
+    font-size: 30px;
+    font-family:inherit;
 }
 
 .photo {
     float : right;
+    border-radius: 80%;
 }
 .parisimg{
-    display: inline
+    margin-right: 60px;
 }
+.paraParis {
+    float:right;
+}
+
 .foreign{
-    font-size: 20px;
+    font-size: 30px;
+    margin-top: 8em;
+}
+.whatsyrlang {
+    font-size: 30px
 }
 table {
     margin: 10ox;
@@ -18,18 +31,29 @@ table {
     font-size: 30px;
     margin-top: 1em;
 }
-.clocktower {
+.clock-tower {
     margin-bottom: 400px;
+    border-style: solid;
+    margin-top: 100px;
 }
-.clocktower ul {
-    margin-left: 400px;
+.clock-tower ul {
+    margin-left: 300px;
     margin-top: 5em;
+}
+.h8 {
+    font-size-adjust: auto;
 }
 .alfred {
     margin-bottom: 250px;
+    margin-left: 3em;
+    border-style: solid;
 }
-.africaTP ul {
-    margin-left: 400px;
+.africaTP li {
+    margin-left: 370px;
+    margin-top: 5px;
+}
+.africaTP {
+    border-style: solid;
 }
 
 
