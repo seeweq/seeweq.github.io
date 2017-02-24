@@ -1,25 +1,46 @@
 body {
     background-color:olivedrab;
 }
+.topPart {
+    background-image: url("images/backmoutain.jpg");
+/*    background-repeat: round;*/
+    background-size:cover;
+}
 .middle-center {
     font-size: 30px;
-    font-family:inherit;
+    font-family: Century Gothic, sans-serif;
+    background-color:darkolivegreen; 
 }
-
-.photo {
+.photo img {
     float : right;
     border-radius: 80%;
-}
-.parisimg{
     margin-right: 60px;
 }
+.city h3{
+    font-family: Century Gothic, sans-serif;
+    font-size: 30px;
+    background-color: darkolivegreen
+    
+}
+.parisimg img{
+    margin-right: 60px;
+    border-radius: 80%;
+}
 .paraParis {
-    float:right;
+    float:center;
+    margin-left: 40px;
 }
 
 .foreign{
-    font-size: 30px;
-    margin-top: 8em;
+    margin-top: 6em;
+    font-family: Century Gothic, sans-serif;
+}
+
+.headforforeign {
+    clear:both;
+    font-size:40px;
+    background-color: darkolivegreen;
+    margin-top: 4em;
 }
 .whatsyrlang {
     font-size: 30px
@@ -30,9 +51,11 @@ table {
 .his-txt {
     font-size: 30px;
     margin-top: 1em;
+    font-family: Century Gothic, sans-serif;
+    background-color: darkolivegreen;
 }
 .clock-tower {
-    margin-bottom: 400px;
+    margin-bottom: 200px;
     border-style: solid;
     margin-top: 100px;
 }
@@ -44,7 +67,7 @@ table {
     font-size-adjust: auto;
 }
 .alfred {
-    margin-bottom: 250px;
+    margin-bottom: 150px;
     margin-left: 3em;
     border-style: solid;
 }
